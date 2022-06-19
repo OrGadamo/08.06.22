@@ -1,0 +1,12 @@
+#box_div {
+  width: 30vw;
+  background-color: red;
+}
+#color_div {
+  height: 40vh;
+  width: 40vh;
+  background-color: blue;
+}
+#expand_div {
+  background-color: green;
+}
